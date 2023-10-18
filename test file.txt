@@ -1,4 +1,4 @@
-I miss the old first line, editing line 1
+I miss the old first line. Rainbows and unicorns
 This is a second line for my file.
 I deleted the first line because it was boring. This is more interesting.
 Adding a 4th line in "new branch"
