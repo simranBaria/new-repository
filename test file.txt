@@ -1,1 +1,2 @@
 This is a file, isn't it exciting!
+This is a second line for my file.
