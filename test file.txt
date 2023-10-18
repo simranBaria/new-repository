@@ -1,3 +1,4 @@
 
 This is a second line for my file.
 I deleted the first line because it was boring. This is more interesting.
+Adding a 4th line in "new branch"
