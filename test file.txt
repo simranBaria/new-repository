@@ -1,2 +1,3 @@
-This is a file, isn't it exciting!
+
 This is a second line for my file.
+I deleted the first line because it was boring. This is more interesting.
